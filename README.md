@@ -2,3 +2,5 @@
 Unity application for Android , 
 
 The aim was to interact with Unity and create a simple game appliation.
+
+Inside of Assets folder you can find C# code that is used for this project.
